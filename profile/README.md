@@ -55,5 +55,5 @@
 
 아래 QR 코드를 스캔하여 어플리케이션을 다운로드할 수 있습니다.
 
-<img src="https://github.com/user-attachments/assets/3b420ec3-ad01-4811-8a3b-4459130af79f" alt="Download QR" width="200"/>
+<img src="https://github.com/user-attachments/assets/61c27848-c27a-4e51-8b67-072ef3c91726" alt="Download QR" width="200"/>
 
