@@ -36,3 +36,9 @@
 | **Backend** | 애플리케이션의 백엔드 서버 코드가 포함된 레포지토리입니다. | 🌐 Node.js |
 | **TTS** | 캐릭터 음성을 생성하는 TTS 모델 코드가 포함된 레포지토리입니다. | 🐍 Python |
 | **RVC** | LLVC 모델 학습을 위한 음성 데이터 가공용 레포지토리입니다. | 🐍 Python |
+
+---
+
+## 📄 노션 프로젝트 페이지
+
+👉 [코난팀 Notion 협업 페이지 바로가기](https://typhoon-psychology-bec.notion.site/1ac87aeb4a278061bf79c9538a0809f9?source=copy_link)
