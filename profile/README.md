@@ -42,3 +42,10 @@
 ## 📄 노션 프로젝트 페이지
 
 👉 [코난팀 Notion 협업 페이지 바로가기](https://typhoon-psychology-bec.notion.site/1ac87aeb4a278061bf79c9538a0809f9?source=copy_link)
+
+---
+
+## 📂 데이터 저장 드라이브
+
+📎 [Google Drive에서 데이터 폴더 열기](https://drive.google.com/drive/folders/1U0hjs_n8ym2yXLKCdcxImpWOwHzrgQv_)
+
