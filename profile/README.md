@@ -49,3 +49,11 @@
 
 📎 [Google Drive에서 데이터 폴더 열기](https://drive.google.com/drive/folders/1U0hjs_n8ym2yXLKCdcxImpWOwHzrgQv_)
 
+---
+
+## 📲 어플 다운로드
+
+아래 QR 코드를 스캔하여 어플리케이션을 다운로드할 수 있습니다.
+
+<img src="https://github.com/user-attachments/assets/3b420ec3-ad01-4811-8a3b-4459130af79f" alt="Download QR" width="200"/>
+
