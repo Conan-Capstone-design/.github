@@ -53,7 +53,7 @@
 
 ## 📲 어플 다운로드
 
-아래 QR 코드를 스캔하여 어플리케이션을 다운로드할 수 있습니다.
+아래 QR 코드를 스캔하여 어플리케이션을 다운로드할 수 있습니다. (안드로이드만 가능)
 
 <img src="https://github.com/user-attachments/assets/61c27848-c27a-4e51-8b67-072ef3c91726" alt="Download QR" width="200"/>
 
