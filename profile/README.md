@@ -34,8 +34,8 @@
 | **ModelAI** | LLVC 모델의 핵심 코드가 포함된 레포지토리입니다. | ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
 | **Android** | 애플리케이션의 프론트엔드를 구성하는 레포지토리입니다. | ![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=flat&logo=android&logoColor=white)|
 | **Backend** | 애플리케이션의 백엔드 서버 코드가 포함된 레포지토리입니다. | ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat&logo=node.js&logoColor=white) |
-| **TTS** | 캐릭터 음성을 생성하는 TTS 모델 코드가 포함된 레포지토리입니다. | ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
-| **RVC** | LLVC 모델 학습을 위한 음성 데이터 가공용 레포지토리입니다. | ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white) |
+| **YourTTS** | 캐릭터 음성을 생성하는 TTS 모델 코드가 포함된 레포지토리입니다. | ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| **Data** | LLVC 모델 학습을 위한 음성 데이터 가공용(RVC 모델) 레포지토리입니다. | ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white) |
 
 
 ---
